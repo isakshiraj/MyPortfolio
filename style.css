@@ -22,15 +22,7 @@ body{
 .container{
     padding: 10px 10%; /*10px space from left side and 10% from top*/
 }
-/*nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}*/
-/*.logo{
-    width: 140px;
-}*/
+
 
 #menu{
     top: 0;
