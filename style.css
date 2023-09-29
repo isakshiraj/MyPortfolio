@@ -29,7 +29,7 @@ body{
     position: fixed;
     width: 120%;
     margin-left: -130px;
-    background: linear-gradient(to right, rgb(15, 15, 15), rgb(25, 24, 26));
+    background: linear-gradient(to right, skyblue, lightgreen);
 }
 
 nav ul li{
@@ -167,7 +167,7 @@ nav ul li a:hover::after{
 
 /******box movie recomendation*******/
 .services-list div{
-    background: #262626;
+    background: darkcyan;
     width:60%;
     padding: 20px;
     font-size: 13px;
@@ -225,7 +225,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: #ababab;
+    color: whitesmoke;
     display: inline-block;
     transition: transform 0.5s;
 
@@ -251,7 +251,7 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: #262626;
+    background: linear-gradient(lightpink, skyblue);
     padding: 15px;
     margin: 15px 0;
     color: #fff;
@@ -273,10 +273,12 @@ form .btn2{
 
 
 .copyright{
+    color: black;
+    font-weight: 900;
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    background: #262626;
+    background: linear-gradient(to right, skyblue, lightgreen);
     font-weight: 300;
     margin-top: 20px;
 
